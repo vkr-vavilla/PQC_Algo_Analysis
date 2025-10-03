@@ -101,5 +101,3 @@
 9. Compare findings with research paper [#11]
 
 ---
-
-> **Note**: Resources marked with ⭐ are the absolute highest priority for project success. Start with these if time is limited.
