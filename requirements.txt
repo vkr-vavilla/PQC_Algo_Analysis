@@ -1,0 +1,6 @@
+oqs
+matplotlib
+pandas
+numpy
+scipy
+jupyter
