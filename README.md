@@ -67,27 +67,17 @@ python visualizations/plot_results.py
 ```
 
 ---
-
-## 📚 Useful Resources
-
-- **Research Papers (Free)**
-  - NIST PQC Standardization: [https://csrc.nist.gov/projects/post-quantum-cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography)
-  - Kyber, Dilithium, Falcon Papers: [https://pq-crystals.org](https://pq-crystals.org)
-- **Video Tutorials**
-  - Open Quantum Safe Overview: [https://www.youtube.com/watch?v=3mA7l8_NwAw](https://www.youtube.com/watch?v=3mA7l8_NwAw)
-  - PQC Benchmarking Example: [https://www.youtube.com/watch?v=rbObU6Rzx8E](https://www.youtube.com/watch?v=rbObU6Rzx8E)
-- **Code Examples**
-  - liboqs GitHub: [https://github.com/open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
-  - Qiskit for Shor's Algorithm: [https://qiskit.org/documentation/tutorials/algorithms/05_shor.html](https://qiskit.org/documentation/tutorials/algorithms/05_shor.html)
-
----
-
 ## 👥 Team Roles
-- **Project Lead** – Oversees timeline, ensures integration between tasks  
-- **Benchmarking Leads (Classical/PQC)** – Run and document algorithm tests  
-- **Data & Visualization** – Clean data, plot trends, summarize results  
-- **Documentation & Writing** – Manage references, draft research paper  
-- **Exploration** – Investigate new PQC algorithms and integrate benchmarks
+
+
+| Role | Description |
+|------|-------------|
+| **Project Lead / Research Coordinator** | Oversees project progress, ensures deadlines are met, coordinates between sub-teams, and integrates all work. Also contributes to benchmarking when needed. |
+| **Classical Algorithms Lead** | Focuses on RSA/ECC benchmarks, writes scripts for key generation, encryption/decryption, signing/verification, and prepares data for analysis. |
+| **Post-Quantum Algorithms Lead** | Handles Kyber, Dilithium, Falcon benchmarks, ensures proper setup of liboqs, runs experiments, and collects results. |
+| **New/Experimental PQC Researcher** | Investigates and benchmarks newer PQC algorithms not widely studied, documents results, and compares them with established algorithms. |
+| **Data & Visualization Specialist** | Cleans raw benchmark data, performs statistical analysis, generates graphs/charts, and prepares visual summaries for reports and presentations. |
+| **Documentation & Paper Lead** | Maintains project documentation, writes research reports, keeps references, drafts the final paper, and ensures reproducibility of experiments. |
 
 ---
 
